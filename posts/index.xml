@@ -6,10 +6,24 @@
     <description>Recent content in Posts on 螃蟹小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Thu, 28 Nov 2019 19:29:49 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2019 22:46:57 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第二篇博客</title>
+      <link>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Thu, 28 Nov 2019 22:46:57 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>又见面了 这是第二篇博客 这篇文章主要是总结如何用 hugo 搭建个人博客
+首先去hugoreleases页面下载客户端 解压 记得加路径
+在官网进入quick start 从目标文件用cmder进行第2步命令
+第三步下载主题从vscode进行操作 至第7步的操作 部署hugo页面
+注意draft 改成false
+用hugo new poss/ 来写新博客</description>
+    </item>
     
     <item>
       <title>开博大吉</title>
